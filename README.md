@@ -46,3 +46,8 @@ https://github.com/dodiku/MixingBear
 #### scenescoop
 Scenescoop is a tool to get similar semantic scenes from a pair of videos. Basically, you input a video and get a scene that has a similar meaning in another video. You can run it as a python script or as a web app.  
 https://github.com/cvalenzuela/scenescoop
+
+
+#### easyGAN
+easyGAN allows users to use DCGAN with one line command.  
+https://github.com/sleepy-maker/easyGAN  
