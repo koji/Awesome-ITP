@@ -101,3 +101,9 @@ https://github.com/avseoul/10.15.2017_itp_workshop
 shadertoytothreejs  
 How to steal shadertoy  
 https://github.com/franklinzhu/shadertoytothreejs
+
+Wekinator workshop and example code for MAX/MSP
+https://github.com/Tiriree/wekinatorClass
+
+Avateering with Kinectron - (Research)
+https://github.com/kinectron/kinectron/wiki/Avartron
