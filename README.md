@@ -118,3 +118,6 @@ https://github.com/dodiku/music_with_data_workshop
 A boilerplate server and client setup for Three.js multiplayer using Socket.io.  
 https://github.com/juniorxsound/THREE-Multiplayer
 
+*__oF-shader-boilerplate__*  
+A boilerplate for openFrameworks with fragment shader.  
+https://github.com/sleepy-maker/oF-shader-boilerplate  
