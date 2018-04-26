@@ -70,9 +70,13 @@ Javascript interface and API for working with X-Y pen plotters and/or vinyl cutt
 https://github.com/mgs/plottr.js  
 
 
-#### MixingBear
+MixingBear
 Automatic beat-mixing of music files in Python, using AudioOwl 🎚  
 https://github.com/dodiku/MixingBear  
+
+protestpy  
+python module for protesting  
+https://github.com/montoyamoraga/protestpy  
 
 
 
