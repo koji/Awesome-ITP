@@ -52,6 +52,14 @@ Mappa is a library to facilitate work between the canvas element and existing ma
 https://mappa.js.org/  
 
 
+Interval  
+Interval Library for Arduino  
+https://github.com/tigoe/Interval  
+
+sACNSource  
+A library for sending DMX-512 messages in an sACN packet over UDP  
+https://github.com/tigoe/sACNSource
+
 
 plottr.js  
 Javascript interface and API for working with X-Y pen plotters and/or vinyl cutters that understand HPGL.
@@ -68,12 +76,11 @@ https://github.com/dodiku/MixingBear
 Making Art With Your Graphics Card  
 An introductory workshop on fragment shaders.  
 https://github.com/oshoham/making-art-with-your-graphics-card
-
-
-
-
-
-
+  
 Unity with Shaders  
 a general usage of shader-implermented perlin noise in unity3D / post-processing-stack  
-https://github.com/avseoul/10.15.2017_itp_workshop
+https://github.com/avseoul/10.15.2017_itp_workshop  
+
+shadertoytothreejs  
+How to steal shadertoy  
+https://github.com/franklinzhu/shadertoytothreejs
