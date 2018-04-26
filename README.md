@@ -1,5 +1,5 @@
 # Awesome-ITP
-Awesome tools or libs from ITPers
+Awesome tools, libs and documents from ITPers
 
 #### PressKit.js  
 PressKit.js generates a fancy press kit for your project!  
@@ -51,3 +51,9 @@ https://github.com/cvalenzuela/scenescoop
 #### easyGAN
 easyGAN allows users to use DCGAN with one line command.  
 https://github.com/sleepy-maker/easyGAN  
+
+
+#### Making Art With Your Graphics Card
+An introductory workshop on fragment shaders.  
+https://github.com/oshoham/making-art-with-your-graphics-card
+
