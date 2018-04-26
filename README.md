@@ -47,7 +47,7 @@ https://mgs.github.io/docode/
 
 *__easyGAN__*    
 easyGAN allows users to use DCGAN with one line command.  
-https://github.com/sleepy-maker/easyGAN  
+https://easygan.netlify.com/  
 
 *__DepthKit.js__*  
 A plugin for using DepthKit's volumteric captures in Three.js.  
