@@ -77,6 +77,11 @@ https://github.com/dodiku/MixingBear
 
 
 ## Doc
+Coding Train
+Daniel Shiffman makes videos on how to code!  
+The Coding Train features "creative coding" video tutorials with new ones released every week.  
+http://thecodingtrain.com/  
+
 Making Art With Your Graphics Card  
 An introductory workshop on fragment shaders.  
 https://github.com/oshoham/making-art-with-your-graphics-card
