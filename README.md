@@ -113,6 +113,11 @@ https://github.com/franklinzhu/shadertoytothreejs
 The goal of this workshop is to expose participants of all levels to the ability of utilizing web APIs and online datasets to build data-driven experiences for creative purposes.  
 https://github.com/dodiku/music_with_data_workshop
 
+
+*__Machine Learning Demystified__*  
+A weekly workshop series at ITP to teach machine learning with a focus on deep learning  
+https://github.com/shekit/machine-learning-demystified
+
 ## Boilerplates
 *__THREE-Multiplayer__* 
 A boilerplate server and client setup for Three.js multiplayer using Socket.io.  
