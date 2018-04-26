@@ -42,6 +42,10 @@ https://github.com/sleepy-maker/easyGAN
 
 
 ## Library
+ml5.js
+A wrapper around deeplearn.js and a set of ready-to-use machine learning utilities.
+https://ml5js.github.io
+
 AudioOwl  
 AudioOwl is using librosa and RNN models to run fast analysis of music files 🎸.  
 https://github.com/dodiku/AudioOwl  
