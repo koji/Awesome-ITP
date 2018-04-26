@@ -8,11 +8,14 @@ Awesome tools, libraries and documents created by ITPers ✊🏻
 1. [Documents and Workshops](#docs-and-workshops)
 1. [Boilerplates and Templates](#boilerplates)
 
-
 ## Tools
 ### Kinectron
 Kinectron sends Kinect depth, color and skeletal data over a peer network
 https://kinectron.github.io
+
+### ml5.js    
+A wrapper around deeplearn.js and a set of ready-to-use machine learning utilities.  
+https://ml5js.github.io  
 
 ### PressKit.js  
 PressKit.js generates a fancy press kit for your project!  
@@ -67,7 +70,6 @@ https://antiboredom.github.io/vidpy/
 Mappa is a library to facilitate work between the canvas element and existing map libraries and APIs.  
 https://mappa.js.org/  
 
-
 ### Interval  
 Interval Library for Arduino  
 https://github.com/tigoe/Interval  
@@ -76,30 +78,38 @@ https://github.com/tigoe/Interval
 A library for sending DMX-512 messages in an sACN packet over UDP  
 https://github.com/tigoe/sACNSource
 
-
 ### plottr.js  
 Javascript interface and API for working with X-Y pen plotters and/or vinyl cutters that understand HPGL.
 https://github.com/mgs/plottr.js  
-
 
 ### MixingBear
 Automatic beat-mixing of music files in Python, using AudioOwl 🎚  
 https://github.com/dodiku/MixingBear  
 
+### protestpy    
+python module for protesting  
+https://github.com/montoyamoraga/protestpy 
+
 ## Docs and workshops
+
 Making Art With Your Graphics Card  
 An introductory workshop on fragment shaders.  
 https://github.com/oshoham/making-art-with-your-graphics-card
+
+Coding Train  
+Daniel Shiffman makes videos on how to code!  
+The Coding Train features "creative coding" video tutorials with new ones released every week.  
+http://thecodingtrain.com/  
   
-Unity with Shaders  
+Unity with Shaders    
 a general usage of shader-implermented perlin noise in unity3D / post-processing-stack  
 https://github.com/avseoul/10.15.2017_itp_workshop  
 
-shadertoytothreejs  
+shadertoytothreejs   
 How to steal shadertoy  
 https://github.com/franklinzhu/shadertoytothreejs
 
-Making music with data
+Making music with data  
 The goal of this workshop is to expose participants of all levels to the ability of utilizing web APIs and online datasets to build data-driven experiences for creative purposes.  
 https://github.com/dodiku/music_with_data_workshop
 
@@ -107,3 +117,4 @@ https://github.com/dodiku/music_with_data_workshop
 ### THREE-Multiplayer
 A boilerplate server and client setup for Three.js multiplayer using Socket.io.  
 https://github.com/juniorxsound/THREE-Multiplayer
+
