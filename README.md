@@ -22,12 +22,12 @@ https://runwayml.com/
 Archetype is an invitation for artists to explore the web as an independent exhibition space.  
 https://archetype.cc/
 
-
+  
 #### Videogrep
 Videogrep is a command line tool that searches through dialog in video files (using .srt or .vtt subtitle tracks, or pocketsphinx transcriptions) and makes supercuts based on what it finds.  
 http://antiboredom.github.io/videogrep/
 
-
+  
 #### VidPy
 A Python video editor and compositor based on the MLT Multimedia Framework.  
 https://antiboredom.github.io/vidpy/
@@ -51,9 +51,23 @@ https://github.com/cvalenzuela/scenescoop
 #### easyGAN
 easyGAN allows users to use DCGAN with one line command.  
 https://github.com/sleepy-maker/easyGAN  
-
+  
 
 #### Making Art With Your Graphics Card
 An introductory workshop on fragment shaders.  
 https://github.com/oshoham/making-art-with-your-graphics-card
 
+
+#### docode
+A tool that automatically generates media files, such as videos, GIFs, and screenshots, from your JavaScript sketch file.  
+https://mgs.github.io/docode/  
+
+
+#### plottr.js
+Javascript interface and API for working with X-Y pen plotters and/or vinyl cutters that understand HPGL.
+https://github.com/mgs/plottr.js  
+
+
+#### Unity with Shaders
+a general usage of shader-implermented perlin noise in unity3D / post-processing-stack  
+https://github.com/avseoul/10.15.2017_itp_workshop
