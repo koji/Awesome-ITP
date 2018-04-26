@@ -10,7 +10,7 @@ Awesome tools, libraries and documents created by ITPers ✊🏻
 
 ## Tools
 *__Kinectron__*  
-Kinectron sends Kinect depth, color and skeletal data over a peer network
+Kinectron sends Kinect depth, color and skeletal data over a peer network.  
 https://kinectron.github.io
 
 *__ml5.js__*      
