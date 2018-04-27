@@ -109,6 +109,13 @@ https://github.com/avseoul/10.15.2017_itp_workshop
 How to steal shadertoy  
 https://github.com/franklinzhu/shadertoytothreejs
 
+ 
+*__Wekinator workshop and example code for MAX/MSP  
+https://github.com/Tiriree/wekinatorClass  
+
+*__Avateering with Kinectron - (Research)__*  
+https://github.com/kinectron/kinectron/wiki/Avartron  
+
 *__Making music with data__*    
 The goal of this workshop is to expose participants of all levels to the ability of utilizing web APIs and online datasets to build data-driven experiences for creative purposes.  
 https://github.com/dodiku/music_with_data_workshop
