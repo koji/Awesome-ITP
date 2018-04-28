@@ -120,10 +120,13 @@ https://github.com/kinectron/kinectron/wiki/Avartron
 The goal of this workshop is to expose participants of all levels to the ability of utilizing web APIs and online datasets to build data-driven experiences for creative purposes.  
 https://github.com/dodiku/music_with_data_workshop
 
-
 *__Machine Learning Demystified__*  
 A weekly workshop series at ITP to teach machine learning with a focus on deep learning  
 https://github.com/shekit/machine-learning-demystified
+
+*__Programmable Air__*  
+A hardware kit to experiment with inflatable and vacuum based soft robotics.  
+https://github.com/tinkrmind/programmable-air  
 
 ## Boilerplates
 *__THREE-Multiplayer__* 
