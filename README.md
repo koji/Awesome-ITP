@@ -9,6 +9,10 @@ Awesome tools, libraries and documents created by ITPers ✊🏻
 1. [Boilerplates and Templates](#boilerplates)
 
 ## Tools
+*__Arduino__*  
+Arduino is an open source hardware and software company and maker community. 
+https://github.com/topics/arduino  
+
 *__Kinectron__*  
 Kinectron sends Kinect depth, color and skeletal data over a peer network.  
 https://kinectron.github.io
