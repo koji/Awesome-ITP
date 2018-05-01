@@ -10,7 +10,7 @@ Awesome tools, libraries and documents created by ITPers ✊🏻
 
 ## Tools
 *__Arduino__*  
-Arduino is an open source hardware and software company and maker community. 
+Arduino is an open source hardware and software company and maker community.  
 https://github.com/topics/arduino  
 
 *__Kinectron__*  
