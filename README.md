@@ -61,6 +61,10 @@ https://github.com/juniorxsound/DepthKit.js
 An A-Frame component for rendering DepthKit volumetric videos in WebVR.  
 https://github.com/juniorxsound/DepthKit-A-Frame
 
+*__odyssey__*
+Audio Transcription platform for oral stories.  
+https://github.com/SharifH/odyssey  
+
 ## Libraries
 *__AudioOwl__*    
 AudioOwl is using librosa and RNN models to run fast analysis of music files 🎸.  
@@ -112,7 +116,6 @@ https://github.com/avseoul/10.15.2017_itp_workshop
 *__shadertoytothreejs__*     
 How to steal shadertoy  
 https://github.com/franklinzhu/shadertoytothreejs
-
  
 *__Wekinator workshop and example code for MAX/MSP__*  
 https://github.com/Tiriree/wekinatorClass   
