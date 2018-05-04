@@ -65,6 +65,10 @@ https://github.com/juniorxsound/DepthKit-A-Frame
 Audio Transcription platform for oral stories.  
 https://github.com/SharifH/odyssey  
 
+*__Future of Comics: Creator Tool__*  
+Make mobile interactive comic books for iPhone and publish it directly to the App Store  
+https://github.com/cruzdiego/futureofcomics
+
 ## Libraries
 *__AudioOwl__*    
 AudioOwl is using librosa and RNN models to run fast analysis of music files 🎸.  
