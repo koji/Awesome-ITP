@@ -102,6 +102,9 @@ https://github.com/dodiku/MixingBear
 python module for protesting  
 https://github.com/montoyamoraga/protestpy 
 
+*__PoseNet__*  
+https://github.com/oveddan/tfjs-models/tree/master/posenet  
+
 ## Docs and workshops
 
 *__Coding Train__*    
