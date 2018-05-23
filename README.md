@@ -61,7 +61,7 @@ https://github.com/juniorxsound/DepthKit.js
 An A-Frame component for rendering DepthKit volumetric videos in WebVR.  
 https://github.com/juniorxsound/DepthKit-A-Frame
 
-*__odyssey__*
+*__odyssey__*  
 Audio Transcription platform for oral stories.  
 https://github.com/SharifH/odyssey  
 
