@@ -38,7 +38,7 @@ Archetype is an invitation for artists to explore the web as an independent exhi
 https://archetype.cc/  
 
 *__Videogrep__*    
-Videogrep is a command line tool that searches through dialog in video files (using .srt or .vtt subtitle tracks, or pocketsphinx transcriptions) and makes supercuts based on what it finds.
+Videogrep is a command line tool that searches through dialog in video files (using .srt or .vtt subtitle tracks, or pocketsphinx transcriptions) and makes supercuts based on what it finds.  
 http://antiboredom.github.io/videogrep/  
 
 *__scenescoop__*    
