@@ -150,3 +150,7 @@ https://github.com/juniorxsound/THREE-Multiplayer
 *__oF-shader-boilerplate__*  
 A boilerplate for openFrameworks with fragment shader.  
 https://github.com/sleepy-maker/oF-shader-boilerplate  
+
+*__Twitter-Bot-Template-4-python__*  
+twitter bot template for python with twython  
+https://github.com/sleepy-maker/Twitter-Bot-Template-4-python
