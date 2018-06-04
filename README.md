@@ -19,7 +19,7 @@ https://kinectron.github.io
 
 *__ml5.js__*      
 A wrapper around deeplearn.js and a set of ready-to-use machine learning utilities.  
-https://ml5js.github.io  
+https://ml5js.org 
 
 *__PressKit.js__*    
 PressKit.js generates a fancy press kit for your project!  
