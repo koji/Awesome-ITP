@@ -146,6 +146,10 @@ https://github.com/shekit/machine-learning-demystified
 A hardware kit to experiment with inflatable and vacuum based soft robotics.  
 https://github.com/tinkrmind/programmable-air  
 
+*__workshop_threevr__*  
+Material for the threeVR workshop  
+https://github.com/nicolaspe/workshop_threevr  
+
 ## Boilerplates
 *__THREE-Multiplayer__* 
 A boilerplate server and client setup for Three.js multiplayer using Socket.io.  
