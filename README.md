@@ -105,6 +105,10 @@ https://github.com/montoyamoraga/protestpy
 *__PoseNet__*  
 https://github.com/oveddan/tfjs-models/tree/master/posenet  
 
+*__Threaded Depth Cleaner__*  
+Threaded depth-map cleaning and inpainting using OpenCV.  
+https://github.com/juniorxsound/ThreadedDepthCleaner  
+
 ## Docs and workshops
 
 *__Coding Train__*    
