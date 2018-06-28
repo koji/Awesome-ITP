@@ -150,6 +150,10 @@ https://github.com/tinkrmind/programmable-air
 Material for the threeVR workshop  
 https://github.com/nicolaspe/workshop_threevr  
 
+*__Pi Setup__*  
+For Raspberry Pi setup workshop  
+https://github.com/sleepy-maker/pi-setup  
+
 ## Boilerplates
 *__THREE-Multiplayer__* 
 A boilerplate server and client setup for Three.js multiplayer using Socket.io.  
