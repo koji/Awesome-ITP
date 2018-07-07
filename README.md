@@ -81,6 +81,10 @@ https://github.com/code-warrior/dockspacer
 A Mac OS X command line tool that allows users to enable/disable box shadows around screenshots.  
 https://github.com/code-warrior/screenshot-shadow  
 
+*__Screenshot File Format__*  
+A Mac OS X command line utility that allows users to choose PNG, PDF, PSD, JPG, TIF, or GIF as the format for screenshots.  
+https://github.com/code-warrior/screenshot-file-format  
+
 ## Libraries
 *__AudioOwl__*    
 AudioOwl is using librosa and RNN models to run fast analysis of music files 🎸.  
