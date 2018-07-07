@@ -67,7 +67,11 @@ https://github.com/SharifH/odyssey
 
 *__Future of Comics: Creator Tool__*  
 Make mobile interactive comic books for iPhone and publish it directly to the App Store  
-https://github.com/cruzdiego/futureofcomics
+https://github.com/cruzdiego/futureofcomics  
+  
+*__manipulation__*  
+Software MIDI manipulation of hardware MIDI instruments  
+https://github.com/maquinitas  
 
 ## Libraries
 *__AudioOwl__*    
