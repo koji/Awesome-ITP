@@ -73,6 +73,10 @@ https://github.com/cruzdiego/futureofcomics
 Software MIDI manipulation of hardware MIDI instruments  
 https://github.com/maquinitas  
 
+*__Dockspacer__*  
+A Mac OS X command line utility that creates spacers in the Dock.  
+https://github.com/code-warrior/dockspacer  
+
 ## Libraries
 *__AudioOwl__*    
 AudioOwl is using librosa and RNN models to run fast analysis of music files 🎸.  
