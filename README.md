@@ -73,6 +73,18 @@ https://github.com/cruzdiego/futureofcomics
 Software MIDI manipulation of hardware MIDI instruments  
 https://github.com/maquinitas  
 
+*__Dockspacer__*  
+A Mac OS X command line utility that creates spacers in the Dock.  
+https://github.com/code-warrior/dockspacer  
+
+*__Screenshot Shadow__*  
+A Mac OS X command line tool that allows users to enable/disable box shadows around screenshots.  
+https://github.com/code-warrior/screenshot-shadow  
+
+*__Screenshot File Format__*  
+A Mac OS X command line utility that allows users to choose PNG, PDF, PSD, JPG, TIF, or GIF as the format for screenshots.  
+https://github.com/code-warrior/screenshot-file-format  
+
 ## Libraries
 *__AudioOwl__*    
 AudioOwl is using librosa and RNN models to run fast analysis of music files 🎸.  
