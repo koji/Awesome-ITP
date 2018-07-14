@@ -85,6 +85,10 @@ https://github.com/code-warrior/screenshot-shadow
 A Mac OS X command line utility that allows users to choose PNG, PDF, PSD, JPG, TIF, or GIF as the format for screenshots.  
 https://github.com/code-warrior/screenshot-file-format  
 
+*__p5.serialport__*  
+Serial Port API and Server for p5.js  
+https://github.com/vanevery/p5.serialport  
+
 ## Libraries
 *__AudioOwl__*    
 AudioOwl is using librosa and RNN models to run fast analysis of music files 🎸.  
