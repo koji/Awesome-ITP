@@ -170,6 +170,10 @@ https://github.com/tinkrmind/programmable-air
 Material for the threeVR workshop  
 https://github.com/nicolaspe/workshop_threevr  
 
+*__PiRecipes__*
+A collection of ways to do things on a Raspberry Pi     
+https://github.com/tigoe/PiRecipes    
+
 *__Pi Setup__*  
 For Raspberry Pi setup workshop  
 https://github.com/sleepy-maker/pi-setup  
