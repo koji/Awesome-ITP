@@ -195,4 +195,8 @@ https://github.com/sleepy-maker/oF-shader-boilerplate
 
 *__Twitter-Bot-Template-4-python__*  
 twitter bot template for python with twython  
-https://github.com/sleepy-maker/Twitter-Bot-Template-4-python
+https://github.com/sleepy-maker/Twitter-Bot-Template-4-python   
+
+*__Web Dev Boilerplates__*
+Webpack, Typescript, threejs, reactjs   
+https://github.com/koji/webdev    
