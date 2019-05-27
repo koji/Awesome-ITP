@@ -89,12 +89,6 @@ https://github.com/code-warrior/screenshot-file-format
 Serial Port API and Server for p5.js  
 https://github.com/vanevery/p5.serialport  
 
-*__Programmable Air__*
-Programmable-Air is an open source pneumatic controller for makers    
-https://github.com/programmable-air   
-
-
-
 
 ## Libraries
 *__AudioOwl__*    
@@ -172,6 +166,7 @@ https://github.com/shekit/machine-learning-demystified
 *__Programmable Air__*  
 A hardware kit to experiment with inflatable and vacuum based soft robotics.  
 https://github.com/tinkrmind/programmable-air  
+https://github.com/programmable-air   
 
 *__workshop_threevr__*  
 Material for the threeVR workshop  
