@@ -89,6 +89,13 @@ https://github.com/code-warrior/screenshot-file-format
 Serial Port API and Server for p5.js  
 https://github.com/vanevery/p5.serialport  
 
+*__Programmable Air__*
+Programmable-Air is an open source pneumatic controller for makers    
+https://github.com/programmable-air   
+
+
+
+
 ## Libraries
 *__AudioOwl__*    
 AudioOwl is using librosa and RNN models to run fast analysis of music files 🎸.  
@@ -174,9 +181,13 @@ https://github.com/nicolaspe/workshop_threevr
 A collection of ways to do things on a Raspberry Pi     
 https://github.com/tigoe/PiRecipes    
 
-*__Pi Setup__*  
+*__Pi Note__*  
 For Raspberry Pi setup workshop  
-https://github.com/sleepy-maker/pi-setup  
+https://github.com/koji/RaspberryPi-Note      
+
+*__p5js-shaders__* 
+https://glitch.com/@kcconch/p-5-js-shaders    
+https://github.com/ITP-xStory/p5js-shaders    
 
 ## Boilerplates
 *__THREE-Multiplayer__* 
