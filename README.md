@@ -89,6 +89,10 @@ https://github.com/code-warrior/screenshot-file-format
 Serial Port API and Server for p5.js  
 https://github.com/vanevery/p5.serialport  
 
+*__OSCAR__* 
+OSCAR is a tool to create beautiful graphic user interaces (GUIs) to send OSC messages and control interactive installations (Resolume arena, Touch Designer, Ableton, Processing, PD, UNITY, Unreal, etc). Let's create beautiful, responsive and touchable interfaces.  
+https://github.com/trafalmejo/OSCAR
+
 
 ## Libraries
 *__AudioOwl__*    
