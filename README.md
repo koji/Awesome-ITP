@@ -199,7 +199,7 @@ https://github.com/koji/oF-shader-boilerplate
 
 *__Twitter-Bot-Template-4-python__*  
 twitter bot template for python with twython  
-https://github.com/sleepy-maker/Twitter-Bot-Template-4-python   
+https://github.com/koji/Twitter-Bot-Template-4-python   
 
 *__Web Dev Boilerplates__*
 Webpack, Typescript, threejs, reactjs   
